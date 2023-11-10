@@ -2,6 +2,10 @@ Some initial data analysis to identify the relationship between food insecurity 
 
 ## Authors: 
 
-Ahmad Ammash: Data Scientist on the Data Scientist Development Program (DSDP) at the Leeds Institute for Data Analytics (LIDA)
+Ahmad Ammash: Data Scientist on the DSDP at the Leeds Institute for Data Analytics (LIDA)
 
 John Smith: Research Data Scientist at the Consumer Data Research Center (CDRC)
+
+## Citation:
+
+Please cite this work
